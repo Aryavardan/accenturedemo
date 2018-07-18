@@ -1,5 +1,13 @@
 fdghdhg
 fgdghdg
 
+<<<<<<< HEAD
 jjjjjj
 jjjjjj
+=======
+jidjgfdjfj
+dieriugfirugi9
+feihgidhugi9eug
+
+ehgfieugiu
+>>>>>>> 43208b3ad2a402e93d2809426a280d6a0f8a0f15
